@@ -7,5 +7,4 @@
 
 
 - 🌱 I’m currently learning **C** and **C++**.
-- 🎒 I have learned **assembly(x64)**, **docker** and **k8s**.
 - 👀 I'm interested in **web development** and **game development**.
