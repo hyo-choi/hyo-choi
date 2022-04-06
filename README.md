@@ -4,7 +4,7 @@
 
 📚 I'm studying in **42Seoul** since June 2020.
 
-[![hyochoi's 42Seoul stats](https://badge42.herokuapp.com/api/stats/hyochoi)](https://github.com/JaeSeoKim/badge42)
+[![hyochoi's 42 stats](https://badge42.vercel.app/api/v2/cl1mx6tgd000609l78p41sx84/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 ---
 
 ### Dev Skills & Environments 🔧
